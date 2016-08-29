@@ -1,3 +1,3 @@
 #!/bin/sh
 # a not-very-smart algorithm
-echo "N" > /output/out.txt
+echo "0	0" > /output/out.txt
